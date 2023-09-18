@@ -1,4 +1,10 @@
-### Hi there 👋
+# Sobre mim
+- Oi meu nome é Ana Luiza Paladino
+- Sou aluna de pensamento computacional do 1 ano A
+- Email de contato: ana.paladino.reis@escola.pr.gov.br
+- Gosto muito de programação e criar jogos
+
+
 
 <!--
 **wxpaladino/wxpaladino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
